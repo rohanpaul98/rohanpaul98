@@ -1,6 +1,6 @@
-### Hi there, I'm Rohan 👋
+## Hi there, I'm Rohan 👋
 
-## I'm a Student and a  Developer!!
+# I'm a Student and a  Developer!!
 
 - 🔭 I am currently working on new and fascinating projects.
 - 🌱 I’m currently learning everything 🤣
@@ -14,7 +14,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/317v5zwiy3grd2x567z6keqfshuy)
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Rohans" width="36px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rohans Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -26,7 +26,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
@@ -50,7 +50,7 @@
 
 
 
-### GitHub Stats
+## GitHub Stats
 <br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rohanpaul98&show_icons=true&theme=tokyonight" alt="Rohan's Stats" />
