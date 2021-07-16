@@ -46,7 +46,7 @@
 
 
 
-###:zap: GitHub Stats
+### GitHub Stats
 <br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhirupDatta04&show_icons=true&theme=tokyonight" alt="Abhirup's Stats" />
