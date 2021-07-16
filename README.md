@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/317v5zwiy3grd2x567z6keqfshuy)
+[<img src="https://now-playing-RohanPaul.vercel.app/api/spotify-playing" alt="rohans Spotify Playing" width="350" />](https://open.spotify.com/user/317v5zwiy3grd2x567z6keqfshuy)
 
 ## Connect with me:
 
@@ -59,7 +59,7 @@
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpaul98&langs_count=8&border_radius=10px&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats,rohanpaul98.github.io" alt="Rohan's Stats" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanpaul98&repo=github-readme-stats)](https://github.com/rohanpaul98/github-readme-stats)
+
 
 
 
