@@ -46,9 +46,11 @@
 
 
 
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
+<br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhirupDatta04&show_icons=true&theme=tokyonight" alt="Abhirup's Stats" />
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirupDatta04&langs_count=8&border_radius=10px&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats,AbhirupDatta04.github.io" alt="Abhirup's Stats" />
 
 
