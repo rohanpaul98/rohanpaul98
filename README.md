@@ -45,13 +45,14 @@
 
 
 
-<details>
-  ###:zap: GitHub Stats
+
+  <summary>:zap: GitHub Stats</summary>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhirupDatta04&show_icons=true&theme=tokyonight" alt="Abhirup's Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirupDatta04&langs_count=8&border_radius=10px&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats,AbhirupDatta04.github.io" alt="Abhirup's Stats" />
 
-</details>
+
+
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
