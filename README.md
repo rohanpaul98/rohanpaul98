@@ -16,8 +16,12 @@
 
 ### Connect with me:
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<a href="https://www.linkedin.com/in/abhirup-datta-1a85661b5/" target="blank"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 
 <br />
 
@@ -49,14 +53,12 @@
 ### GitHub Stats
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhirupDatta04&show_icons=true&theme=tokyonight" alt="Abhirup's Stats" />
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirupDatta04&langs_count=8&border_radius=10px&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats,AbhirupDatta04.github.io" alt="Abhirup's Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rohanpaul98&show_icons=true&theme=tokyonight" alt="Rohan's Stats" />
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpaul98&langs_count=8&border_radius=10px&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats,rohanpaul98.github.io" alt="Rohan's Stats" />
 
 
 
 [website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/Rohannnn007
+[linkedin]:https://www.linkedin.com/in/rohan-paul-/
