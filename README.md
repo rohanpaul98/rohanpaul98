@@ -1,4 +1,9 @@
-![BannerGIF](https://github.com/rohanpaul98/rohanpaul98/blob/master/ROAHAN%20PAUL.gif)
+
+
+<p align="center">
+    <img src="https://github.com/rohanpaul98/rohanpaul98/blob/master/ROAHAN%20PAUL.gif" />
+ </p>
+<!--   </a>![BannerGIF](https://github.com/rohanpaul98/rohanpaul98/blob/master/ROAHAN%20PAUL.gif) -->
 <!-- ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/Rohan/images/banner.png) -->
 ## Hi Guys 👋
 - 🔭 I am currently working on new and fascinating projects.
