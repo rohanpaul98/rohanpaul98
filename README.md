@@ -19,26 +19,24 @@
   <a href="http://twitter.com/ankushsgandhi">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-   <a href="https://www.linkedin.com/in/ankushsinghgandhi/">
+   <a href="www.linkedin.com/in/rohan-paul-">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://dev.to/@ankushsinghgandhi">
+  <a href="https://dev.to/rohanpaul98s">
     <img src="https://img.shields.io/badge/-Dev.to-grey?style=flat-square&logo=dev.to&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/13790266/ankush-singh-gandhi?tab=profile">
+  <a href="https://stackoverflow.com/users/16470683/rohan-paul">
     <img src="https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/ankushsinghgandhi/">
+  <a href="https://leetcode.com/Rohan98/">
     <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/>
   </a>
-    <a href="https://www.hackerrank.com/ankushsgandhi">
+    <a href="https://www.hackerrank.com/rohanpaul060598">
     <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
   </a>
-  <a href="http://www.youtube.com/c/TechXtreme">
-    <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/>
-  </a>
+  
   <a href="https://www.hackerearth.com/@ankushsinghgandhi">
-    <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Codechef-purple?style=flat-square&logo=Codechef&logoColor=white"/>
   </a>
 </p>
 
