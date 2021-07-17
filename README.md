@@ -11,9 +11,9 @@
 - 🤔 I’m looking for help with Deep Learning
 - ⚡ Fun fact: I love to explore new and trending technologies.
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-RohanPaul.vercel.app/api/spotify-playing" alt="rohans Spotify Playing" width="350" />](https://open.spotify.com/user/317v5zwiy3grd2x567z6keqfshuy)
+[<img src="https://now-playing-RohanPaul.vercel.app/api/spotify-playing" alt="rohans Spotify Playing" width="350" />](https://open.spotify.com/user/317v5zwiy3grd2x567z6keqfshuy) -->
 
 ## Connect with me:
 
