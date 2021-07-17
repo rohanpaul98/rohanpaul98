@@ -13,7 +13,7 @@
 
 [<img src="https://now-playing-RohanPaul.vercel.app/api/spotify-playing" alt="rohans Spotify Playing" width="350" />](https://open.spotify.com/user/317v5zwiy3grd2x567z6keqfshuy) -->
 <span style="color: green">  Connect with me: </span>
-## Connect with me:
+[## Connect with me:]
 
 [<img align="left" alt="Rohans" width="36px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rohans Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
