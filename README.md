@@ -14,12 +14,34 @@
 [<img src="https://now-playing-RohanPaul.vercel.app/api/spotify-playing" alt="rohans Spotify Playing" width="350" />](https://open.spotify.com/user/317v5zwiy3grd2x567z6keqfshuy) -->
 ## Connect with me:
 
-[<img align="left" alt="Rohans" width="36px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Rohans Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
- 
-[<img align="left" alt="Rohans LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rohans Medium" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Rohans facebook" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<p align="center">
+
+  <a href="http://twitter.com/ankushsgandhi">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+   <a href="https://www.linkedin.com/in/ankushsinghgandhi/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/@ankushsinghgandhi">
+    <img src="https://img.shields.io/badge/-Dev.to-grey?style=flat-square&logo=dev.to&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/13790266/ankush-singh-gandhi?tab=profile">
+    <img src="https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/ankushsinghgandhi/">
+    <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/>
+  </a>
+    <a href="https://www.hackerrank.com/ankushsgandhi">
+    <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
+  </a>
+  <a href="http://www.youtube.com/c/TechXtreme">
+    <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerearth.com/@ankushsinghgandhi">
+    <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
+  </a>
+</p>
+
 
 
 <br />
