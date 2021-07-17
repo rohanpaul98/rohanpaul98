@@ -16,9 +16,9 @@
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-RohanPaul.vercel.app/api/spotify-playing" alt="rohans Spotify Playing" width="350" />](https://open.spotify.com/user/317v5zwiy3grd2x567z6keqfshuy) -->
-<p align="center"><b>  <a href="">
+<p align="center">
     <img src="https://img.shields.io/badge/MyWebsite-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
-  </a></b></p>
+</p>
 
 ## Connect with me:
 
