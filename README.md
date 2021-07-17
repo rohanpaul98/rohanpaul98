@@ -93,7 +93,13 @@
 
 </div>
 #
+
 ![](https://github.com/rohanpaul98/rohanpaul98/blob/master/footer.png)
+<footer>
+    <div>
+        <img src ="https://github.com/AnkushSinghGandhi/AnkushSinghGandhi/blob/master/images/footer.png">
+    </div>
+</footer>
 
 <!-- [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/Rohannnn007
