@@ -12,11 +12,15 @@
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-RohanPaul.vercel.app/api/spotify-playing" alt="rohans Spotify Playing" width="350" />](https://open.spotify.com/user/317v5zwiy3grd2x567z6keqfshuy) -->
+<p align="center"><b>  <a href="">
+    <img src="https://img.shields.io/badge/MyWebsite-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a></b></p>
+
 ## Connect with me:
 
 <p align="center">
 
-  <a href="http://twitter.com/ankushsgandhi">
+  <a href="https://twitter.com/Rohannnn007">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
   </a>
    <a href="www.linkedin.com/in/rohan-paul-">
@@ -34,8 +38,7 @@
     <a href="https://www.hackerrank.com/rohanpaul060598">
     <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
   </a>
-  
-  <a href="https://www.hackerearth.com/@ankushsinghgandhi">
+  <a href="https://www.codechef.com/users/rohann98">
     <img src="https://img.shields.io/badge/-Codechef-purple?style=flat-square&logo=Codechef&logoColor=white"/>
   </a>
 </p>
@@ -79,6 +82,14 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpaul98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  -->
+ 
+ <div align="center">
+
+
+# :point_down: Support me here!
+<a href="https://www.buymeacoffee.com/Rohan007" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+</div>
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/Rohannnn007
