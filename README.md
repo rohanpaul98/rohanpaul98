@@ -71,7 +71,7 @@
 
 
 <div align = "center">
-    ## GitHub Stats
+    <span style = "color : green ">GitHub Stats</span>
     <br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanpaul98&show_icons=true&theme=tokyonight" alt="Rohan's Stats" />
     <br/>
