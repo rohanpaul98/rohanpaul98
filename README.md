@@ -76,8 +76,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rohanpaul98&show_icons=true&theme=tokyonight" alt="Rohan's Stats" />
 <br/>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpaul98&langs_count=8&border_radius=10px&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats,rohanpaul98.github.io" alt="Rohan's Stats" />
-
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpaul98&langs_count=8&border_radius=10px&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats,rohanpaul98.github.io" alt="Rohan's Stats" />
+ -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpaul98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
