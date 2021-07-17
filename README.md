@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/rohanpaul98/rohanpaul98/blob/master/ROAHAN%20PAUL.gif" />
+    <img src="https://github.com/rohanpaul98/rohanpaul98/blob/master/Rohan%20new.gif" />
 </p>
 
 <!-- ![BannerGIF](https://github.com/rohanpaul98/rohanpaul98/blob/master/ROAHAN%20PAUL.gif) -->
